@@ -1,0 +1,4 @@
+cmd/
+.env
+peril
+peril.exe
