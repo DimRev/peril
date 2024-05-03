@@ -1,3 +1,4 @@
 .env
-peril
-peril.exe
+server
+server.exe
+.vscode/

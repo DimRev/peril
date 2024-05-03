@@ -1,1 +1,1 @@
-go build && ./peril
+go build ./cmd/server && ./server
